@@ -17,7 +17,7 @@ You need to install the following dependencies on your system:
 - `wofi` the application launcher.
 - I use the `kitty` terminal, but you can use whichever terminal emulator that you are comfortable with.
 
-On arch, you can install some of the above with `sudo pacman -S hyprlock hypridle hyprpaper dolphin network-manager-applet polkit-gnome polkit-kde-agent fcitx5 kservice hyprshot wlogout wireplumber brightnessctl`, installing `eww` has to
+On arch, you can install some of the above with `sudo pacman -S hyprland waybar wofi kitty caja hyprlock hypridle hyprpaper dolphin network-manager-applet polkit-gnome polkit-kde-agent fcitx5 kservice hyprshot wlogout wireplumber brightnessctl`, installing `eww` has to
 be done separately, easiest way is from the AUR with yay.
 
 To install, copy all the folders in the `config` directory, to the `~/.config` directory on your system; make sure to backup your previous configs if you have them.
